@@ -66,7 +66,7 @@ scene.add(sign);
 // Load Gentra model
 let gentraModel;
 const loader = new GLTFLoader();
-loader.load('./models/car/scene.gltf', (gltf) => {
+loader.load('/models/car/scene.gltf', (gltf) => {
     gentraModel = gltf.scene;
     gentraModel.scale.set(1.5, 1.5, 1.5);
     gentraModel.position.set(0, 1.1, 54);
@@ -81,7 +81,7 @@ loader.load('./models/car/scene.gltf', (gltf) => {
 // Load City model and extract colliders
 const colliders = [];
 const cityLoader = new GLTFLoader();
-cityLoader.load('./models/city/modern_city_block.glb', (gltf) => {
+cityLoader.load('/models/city/modern_city_block.glb', (gltf) => {
     const city = gltf.scene;
     city.scale.set(0.01, 0.01, 0.01)
     city.position.set(0, 0, 0);
