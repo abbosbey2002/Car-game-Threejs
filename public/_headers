@@ -1,0 +1,8 @@
+/models/*.gltf
+  Content-Type: model/gltf+json
+
+/models/*.glb
+  Content-Type: model/gltf-binary
+
+/models/*.bin
+  Content-Type: application/octet-stream
