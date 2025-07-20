@@ -1,6 +1,3 @@
-[build]
-  publish = "public"
-
 [[headers]]
   for = "/models/*"
   [headers.values]
