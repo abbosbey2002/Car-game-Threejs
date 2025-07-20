@@ -1,0 +1,11 @@
+Model Information:
+* title:	chevrolet Gentra 1.5
+* source:	https://sketchfab.com/3d-models/chevrolet-gentra-15-368cb7844e614e80939b065d01d41823
+* author:	abduhamid_coder (https://sketchfab.com/abduhamid_coder_troll)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "chevrolet Gentra 1.5" (https://sketchfab.com/3d-models/chevrolet-gentra-15-368cb7844e614e80939b065d01d41823) by abduhamid_coder (https://sketchfab.com/abduhamid_coder_troll) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
