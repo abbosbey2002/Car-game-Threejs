@@ -66,7 +66,7 @@ scene.add(sign);
 // Load Gentra model
 let gentraModel;
 const loader = new GLTFLoader();
-loader.load('https://github.com/abbosbey2002/Car-game-Threejs/blob/main/models/car/scene.gltf', (gltf) => {
+loader.load('/models/car/scene.gltf', (gltf) => {
     gentraModel = gltf.scene;
     gentraModel.scale.set(1.5, 1.5, 1.5);
     gentraModel.position.set(0, 1.1, 54);
